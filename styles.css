@@ -451,6 +451,11 @@ footer {
     height: auto;
   }
 
+  .offer-2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
   .contact-form {
     width: 100%;
     max-width: 200px;
@@ -491,5 +496,9 @@ footer {
 
   .contact {
     padding: 100px;
+  }
+
+  #deal-ana {
+    border-radius: 0px;
   }
 }
