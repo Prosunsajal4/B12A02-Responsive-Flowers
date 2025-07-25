@@ -1,121 +1,72 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-002 😎
+<div align="center">
 
-### 📅 Deadline For 60 marks: 25th July, 2025 (11:59 pm ⏱️)
+# 👋 Hey, I'm Prosun Mukherjee
 
-### 📅 Deadline For 50 marks: 26th July, 2025 (11:59 pm ⏱️)
+**🎓 ECE Student | 🧠 Tech Explorer | 🛠️ Productivity & Learning Tool Developer**
 
-### 📅 Deadline For 30 marks:\*\* Any time after 26th July.
+![Profile Views](https://komarev.com/ghpvc/?username=ProsunMukherjee&label=Profile%20Views&color=0e75b6&style=flat)
 
----
+[![Portfolio](https://img.shields.io/badge/🎯_Portfolio-0f172a?style=for-the-badge)](http://itsprosun.me/)
+[![Email](https://img.shields.io/badge/📫_Email-me-orange?style=for-the-badge)](mailto:prosunsajal123@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/ProsunMukherjee?label=Follow&style=social)](https://github.com/Prosunsajal4)
 
-## ✅ Main Requirements (50 Marks)
-
-### 1. Navbar
-
-- **Logo/Website name** on the left
-- **Menu items** on the right with **cart icon**
-- **Mobile Responsiveness:**
-  - Logo/website name on the left
-  - Cart icon with name on the right as Figma
-  - Other navbar elements will be hidden for cleaner mobile experience
+</div>
 
 ---
 
-### 2. Banner
+## 🧑‍💻 About Me
 
-- **Image** on the right
-- **Title and paragraph** on the left
-- **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+I'm **Prosun Mukherjee**, an enthusiastic learner from **Khulna University**, studying **Electronics and Communication Engineering**.  
+I build tools to **track productivity**, **support education**, and **simplify learning** — mixing my passion for engineering with real-world impact.
 
----
-
-### 3. Plants Section
-
-- centered **Title and subtitle** as Figma
-- **8 cards with 4 Collumn View** with image, name, price, and Add to cart button
-- **Mobile Responsiveness:**
-  - Display Cards in 2 Collumn
+- 🔭 Currently working on: `KU ECE Helper`, `OnTrack Chrome Extension`
+- 💖 Also made a personal CV site and portfolio
+- 🌱 Learning: `AI basics`, `Web Tech`, `C`,`Web Dev`, `Signal Processing`, and `Digital Logic`
+- ⚡ Fun fact: I cry when I am sad 😄
 
 ---
 
-### 4. Plants Lover Section
+## 🚀 Projects
 
-- **Image** on the left
-- **Title and unordered list** on the right as Figma
-- **Mobile Responsiveness:**
-  - Image moves to the top
-  - Content after image
-  - Content left aligned as Figma
+| Project Name | Description | Tech Stack | Live Demo |
+|--------------|-------------|------------|-----------|
+| [KU ECE Helper](http://itsprosun.me/KU-ECE-HELPER/) | A full academic helper site for ECE students (1-1 to 4-2) | HTML, CSS, JS | ✅ |
+| AI Tools (WIP) | Experiments with GPT, automation & ECE topics | Python, GPT API | 🔬 Exploring |
 
 ---
 
-### 5. Join Section
+## 🧰 Skills & Tools
 
-- centered **Join the colorful Bunch** message
-- **Background image** in the full section like Figma
-- **Input box with placeholder** and **subscribe button** like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
-
----
-
-### 6. Footer Section
-
-- **Website logo** on the left
-- **Home, features link items** just like Figma
-- **Mobile Responsiveness:** Responsive design like Figma
+- **Languages**: C, C++, Java, JavaScript, MATLAB, Python 
+- **Web Development**: HTML, JavaScript, CSS, Bootstrap, Chart.js
+- **Tech Tools**: Git, Chrome Extension APIs, Firebase, Vercel, Azure
+- **ECE Knowledge**: Analog/Digital Comm, Signal Processing, VLSI basics
 
 ---
 
-## 🧪 Challenges Part ( 10 Mark)
+## 📊 GitHub Stats
 
-### Latest Deal Section
+<div align="center">
 
-- **Title and subtitles**
-- **Card layout** like Figma
-- **Mobile Responsiveness:** Show a card on display like Figma
+<img src="https://github-readme-stats.vercel.app/api?username=Prosunsajal4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prosunsajal4&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prosunsajal4&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
----
-
-### Trusted Plant Lover Badge
-
-- Position a Trusted badge at the **Plant Lover** Image as Figma
-- - **Mobile Responsiveness:** Hide the Trusted badge in Mobile Device
+</div>
 
 ---
 
-## 🕛 Optional Part ( 0 Marks)
+## 📫 Connect With Me
 
-`⚠️ You wont get any support for Optional part. Search Google and try it yourself`
-
-- Create an Animation for Trusted Plant Lover Badge
-
-  - It will Spin infinite times
-
-- Show an Alert with a message `"Flower Added to Cart"` when some one click on **Add to Cart** Button
-
-## ⚙️ Technology Stack
-
-- HTML
-- CSS (Vanilla/ Talwind CSS only)
-- ⚠️ **No libraries (e.g., DaisyUI, Flowbite) allowed.**
+- 📬 Email: [prosunsajal123@gmail.com](mailto:prosunsajal123@gmail.com)
+- 🌐 Portfolio: [Prosun](http://itsprosun.me)
+- 🧠 Want to collaborate on study tools or learning platforms? Ping me!
 
 ---
 
-## 📌 Rules
+<div align="center">
 
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
+**“Learning by building. Helping by sharing.”**  
+Made with ❤️ by **Prosun Mukherjee**
 
----
-
-## 🔗 What to Submit
-
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
-
----
-
-# Let's Code and Achieve your Dream 🎯
+</div>
